@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**nyohannes-ghebremeskel/nyohannes-ghebremeskel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front End Projects
 - 🌱 I’m currently learning C++, HTML, CSS, Javascript, SQL, React, Angular, Rust. MongoDB
