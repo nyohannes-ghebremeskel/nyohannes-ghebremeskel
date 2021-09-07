@@ -6,7 +6,7 @@ I'm Noel, a Software Development student interested in exploring the full stack 
 - 🔭 I’m currently working on Front End Projects
 - 🌱 I’m currently learning C++, HTML, CSS, Javascript, SQL, React, Angular, Rust. MongoDB
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
-- 💬 Ask me about anything on full stack developing
+- 💬 Ask me about anything on front/back end developing
 - 📫 How to reach me: 
   - :dove: [Twitter](https://twitter.com/noel_yohannes)
   - :bulb: [Medium articles]()
