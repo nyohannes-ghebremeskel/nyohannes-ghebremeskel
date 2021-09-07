@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Noel, a Software Development student interested in exploring the full stack route to evolve both my front end & back end skills
+
 
 - 🔭 I’m currently working on Front End Projects
 - 🌱 I’m currently learning C++, HTML, CSS, Javascript, SQL, React, Angular, Rust. MongoDB
