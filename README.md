@@ -7,7 +7,8 @@ I'm Noel, a Software Development student interested in exploring the full stack 
 - 🌱 I’m currently learning C++, HTML, CSS, Javascript, SQL, React, Angular, Rust. MongoDB
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 💬 Ask me about anything on full stack developing
-- 📫 How to reach me: DM me on twitter
+- 📫 How to reach me: 
+  - :dove: 
   - :bulb: [Medium articles]()
   - :office: [LinkedIn]()
 - 😄 Pronouns: He/Him
