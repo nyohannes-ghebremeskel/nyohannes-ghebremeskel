@@ -25,7 +25,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Noel Yohannes Ghebremeskel a <b>second year</b> student from <a href="https://uom.lk/"> <b>Seneca College of Applied Arts and Technology</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
+    Hello, I am Noel Yohannes Ghebremeskel a <b>second year</b> student from <a href="https://uom.lk/"> <b>Seneca College of Applied Arts and Technology</b></a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Full Stack Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>the front and back end side of things</b> and always looking to find patterns of which are hidden in the data 
   </em> 
