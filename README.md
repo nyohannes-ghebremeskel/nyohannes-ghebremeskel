@@ -15,6 +15,7 @@
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
+</div>
 
 I'm Noel, a Software Development student interested in exploring the full stack route to evolve both my front end & back end skills
 
