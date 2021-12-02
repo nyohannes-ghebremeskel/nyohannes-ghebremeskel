@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
+<!--<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Noel Yohannes Ghebremeskel </h1>-->
 <h3 align="center">Full Stack Developer | UX Designer </h3>
 <div align="center">
    <i>Follow me around the web:</i><br>
