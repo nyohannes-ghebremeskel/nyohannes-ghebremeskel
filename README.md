@@ -2,10 +2,9 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center">Full Stack Developer | UX Designer </h3>
 <div align="center">
    <i>Follow me around the web:</i><br>
-
    <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img
             src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"
             alt="LinkedIn"></a>
@@ -21,7 +20,6 @@
     <a href="https://dev.to/ABSphreak" target="_blank"><img
             src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"
             alt="DEV.to"></a>
-
 </div>
 
 
