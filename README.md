@@ -27,8 +27,6 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
 
 
 <div align="center">
@@ -36,7 +34,7 @@
 </div>
 I'm Noel, a Software Development student interested in exploring the full stack route to evolve both my front end & back end skills
 
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 - 🔭 I’m currently working on Front End Projects
 - 🌱 I’m currently learning C++, Javascript, jQuery, Bootstrap, SQL, React, Angular, Rust, and MongoDB
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
