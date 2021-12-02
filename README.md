@@ -74,12 +74,12 @@ stats](https://github-readme-stats.vercel.app/api?username=nyohannes-ghebremeske
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyohannes-ghebremeskel)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-    </br>
-    </br>
+    </br></br>
     <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
     <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api"
             alt="README Jokes"></a>
 </div>
+<h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 <!--<div align="center">
    ---
@@ -103,4 +103,3 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyohannes-
             src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"
             alt="DEV.to"></a>
 </div>-->
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
