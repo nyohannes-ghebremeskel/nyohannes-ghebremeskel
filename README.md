@@ -22,7 +22,6 @@
             alt="DEV.to"></a>
 </div>
 
-
 <p align="center">
   <em>
     Hello, I am Noel Yohannes Ghebremeskel a <b>second year</b> student from <a href="https://www.senecacollege.ca/home.html"> <b>Seneca College of Applied Arts and Technology</b></a>. <br>
@@ -34,7 +33,7 @@
 </p>
 <hr>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
+<h1 align="center"></h1>
 <!--<div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>-->
