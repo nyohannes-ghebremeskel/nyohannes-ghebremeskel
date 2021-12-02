@@ -1,11 +1,15 @@
 <!--### Hi there 👋 -->
+
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+
 <!--<hr>-->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Noel Yohannes Ghebremeskel </h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,
+    I am Noel Yohannes Ghebremeskel </h1>
 <h3 align="center">Full Stack Developer | UX Designer </h3>
 <div align="center">
-   <i>Follow me around the web:</i><br>
-   <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img
+    <i>Follow me around the web:</i><br>
+    <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img
             src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"
             alt="LinkedIn"></a>
     <a href="https://www.instagram.com/absphreak" target="_blank"><img
@@ -23,17 +27,27 @@
 </div>
 
 <p align="center">
-  <em>
-    Hello, I am Noel Yohannes Ghebremeskel a <b>second year</b> student from <a href="https://www.senecacollege.ca/home.html"> <b>Seneca College of Applied Arts and Technology</b></a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Full Stack Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>the front and back end side of things</b> and always looking to find patterns of which are hidden in the data 
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+    <em>
+        Hello, I am Noel Yohannes Ghebremeskel a <b>second year</b> student from <a
+            href="https://www.senecacollege.ca/home.html"> <b>Seneca College of Applied Arts and Technology</b></a>.
+        <br>
+        <b>a passionate self-learner</b> <img
+            src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and
+        a <b>Full Stack Developer</b>&nbsp;<img
+            src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif"
+            width="36px">&nbsp,<br>who is <b>obsessed</b>
+        with <b>the front and back end side of things</b> and always looking to find patterns of which are hidden in the
+        data
+    </em>
+    <br>
+    <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought :
+            "Life is full of choices…choose wisely!”</i></b> <img
+        src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 
-<h1 align="center"></h1>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+<hr>
+<img align="right" width=200px height=200px alt="side_sticker"
+    src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <!--<div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
@@ -45,23 +59,26 @@
 - 🌱 I’m currently learning C++, Javascript, jQuery, Bootstrap, SQL, React, Angular, Rust, and MongoDB
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 💬 Ask me about anything on front/back end developing
-- 📫 How to reach me: 
-  - :dove: [Twitter](https://twitter.com/noel_yohannes)
-  - :bulb: [Medium articles]()
-  - :office: [LinkedIn](https://www.linkedin.com/in/noel-yohannes)
+- 📫 How to reach me:
+- :dove: [Twitter](https://twitter.com/noel_yohannes)
+- :bulb: [Medium articles]()
+- :office: [LinkedIn](https://www.linkedin.com/in/noel-yohannes)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak Italian and Tigrinya
 
 ---
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=nyohannes-ghebremeskel&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyohannes-ghebremeskel)](https://github.com/anuraghazra/github-readme-stats)
+[![Khuyen's github
+stats](https://github-readme-stats.vercel.app/api?username=nyohannes-ghebremeskel&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyohannes-ghebremeskel)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-   </br>
-   </br>
-   <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api"
-           alt="README Jokes"></a>
+    </br>
+    </br>
+    <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api"
+            alt="README Jokes"></a>
 </div>
 
 <!--<div align="center">
@@ -86,4 +103,3 @@
             src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"
             alt="DEV.to"></a>
 </div>-->
-
