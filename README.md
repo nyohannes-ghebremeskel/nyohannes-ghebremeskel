@@ -60,9 +60,9 @@
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 💬 Ask me about anything on front/back end developing
 - 📫 How to reach me:
-- :dove: [Twitter](https://twitter.com/noel_yohannes)
-- :bulb: [Medium articles]()
-- :office: [LinkedIn](https://www.linkedin.com/in/noel-yohannes)
+        - :dove: [Twitter](https://twitter.com/noel_yohannes)
+        - :bulb: [Medium articles]()
+        - :office: [LinkedIn](https://www.linkedin.com/in/noel-yohannes)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak Italian and Tigrinya
 
