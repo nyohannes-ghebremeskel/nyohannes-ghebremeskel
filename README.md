@@ -57,7 +57,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 - 🔭 I’m currently working on a Full Stack Project
 - 🌱 I’m currently learning 
-  - C++, Javascript(Node, Express, React) jQuery, Bootstrap, SQL, React, and MongoDB
+  - C++, Javascript(Node, Express, React, Angular) jQuery, Bootstrap, SQL, and MongoDB
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 💬 Ask me about anything on front/back end developing
 - 📫 How to reach me:
